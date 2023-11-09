@@ -33,7 +33,7 @@ const Login = () => {
             <img src={Human} className="hidden md:block" />
           </div>
           <div className="m-auto w-full rounded-md bg-white px-10 py-4 shadow-xl sm:max-w-sm lg:max-w-md lg:rounded-l-3xl">
-            <h1 className="text-center text-xl font-bold  ">LOGIN</h1>
+            <h1 className="text-center text-xl font-bold  ">SIGN IN</h1>
             <div className="mt-6">
               <div className="mb-2">
                 <h2 className="block text-sm font-semibold text-gray-800">
